@@ -1,0 +1,245 @@
+.hoofdmenuartikel {
+	text-align: left;
+	background-color:	rgb(120, 224, 224);
+	margin:	50px 250px 100px 250px;
+	border-width: 5px;
+	border-style: groove;
+	border-color: red;
+	width: 500px;
+	padding-bottom: 1030px;
+	padding-right: 150px;
+	position: relative;
+}
+
+.logomenu {
+	text-align: right;
+	position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.standbeeld {
+	width: 200px;
+	height: auto;
+	text-align: right;
+	padding-left: 15px;
+	padding-right: 15px;
+	border: 3px solid red;
+	padding-bottom: 10px;
+	margin-left: 1500px;
+	margin-right: 50px;
+	margin-top: 400px;
+	position: absolute;
+	overflow: hidden;
+}
+
+ol.hoofdmenu {
+	list-style-type:	upper-roman;
+	font-family: "Gill Sans", sans-serif;
+}
+
+.hoofdmenu {
+	margin: 25px 25px 25px 25px;
+	padding-left: 200px;
+	padding-right: 200px;
+}
+
+.standbeeldtekst {
+	text-align: right;
+	position: absolute;
+}
+
+ol{
+	list-style-type: none;
+	margin:0;
+	padding: 2px;
+	width: 150px;
+	background-color: rgb(120, 224, 224);
+	float:left;
+	height: 1000px;
+	overflow: auto;
+}
+
+li a{
+	display:block;
+	color: #000;
+	padding: 8px 8px;
+	text-decoration: none;
+}
+
+la a:hover{
+	background-color: #555;
+	color: white;
+}
+
+body {background-color: grey;}
+
+article {font-family: sans-serif, Helvetica, Arial;}
+
+.menu {
+  position: fixed;
+  left: 0;
+  top: 0px;
+  width: 280px;
+  margin-top: 0px;
+}
+
+.artikel {
+	padding-left: 300px;
+	margin-top: 0px;
+}
+
+.logo {
+	float: right;
+	padding-left: 100%;
+	padding-right: 50px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: rgb(120, 224, 224);
+	margin-bottom: 20px;
+	margin-top: 0px;
+}
+
+.alanturing {
+	width: 200px;
+	height: auto;
+	text-align: right;
+	padding: 15px;
+	border: 3px solid red;
+	margin-left: 350px;
+}
+
+.alonzochurch {
+	width: 200px;
+	height: auto;
+	text-align: right;
+	padding: 15px;
+	border: 3px solid red;
+	padding-bottom: 100px;
+	margin-left: 1250px;
+	margin-right: 50px;
+	position: relative;
+	overflow: hidden;
+}
+
+.alonzochurchtekst {
+	text-align: right;
+	padding: 15px;
+	margin-left: 1250px;
+	margin-right: 50px;
+	margin-top: 0px;
+	position: absolute;
+}
+
+.foto3 {
+	width: 480px;
+	height: auto;
+	text-align: center;
+	margin-left: 30px;
+	display: block;
+	background-color: transparent;
+	border: 1px solid red;
+	margin-right: 50px;
+	margin-bottom: 30px;
+	float: right;
+}
+
+.foto5 {
+	width: 500px;
+	height: auto;
+	text-align: center;
+	margin-left: 30px;
+	display: block;
+	background-color: transparent;
+	border: 1px solid red;
+	margin-right: 30px;
+	margin-bottom: 1px;
+	float: right;
+}
+
+.foto4 {
+	width: 775px;
+	height: auto;
+	text-align: center;
+	margin-left: 30px;
+	display: block;
+	background-color: transparent;
+	border: 1px solid red;
+	margin-right: 30px;
+	margin-bottom: 10px;
+	float: right;
+}
+
+.foto6 {
+	width: 720px;
+	height: auto;
+	text-align: center;
+	margin-left: 30px;
+	display: block;
+	background-color: transparent;
+	border: 1px solid red;
+	margin-right: 30px;
+	margin-bottom: 10px;
+	float: right;
+}
+
+
+.afbeelding6 {
+	width: 700px;
+	height: auto;
+}
+
+.foto4-1 {
+	width: 420px;
+	height: auto;
+	text-align: center;
+	margin-left: 30px;
+	display: block;
+	background-color: transparent;
+	border: 1px solid red;
+	margin-right: 30px;
+	margin-bottom: 10px;
+	float: right;
+}
+
+.afbeelding4-1 {
+	width: 400px;
+	height: auto;
+}
+
+.foto3 {
+	width: 520px;
+	height: auto;
+	text-align: center;
+	margin-left: 30px;
+	display: block;
+	background-color: transparent;
+	border: 1px solid red;
+	margin-right: 30px;
+	margin-bottom: 30px;
+	float: right;
+}
+
+.foto8 {
+	width: 300px;
+	height: auto;
+	margin-left: 30px;
+	display: block;
+	background-color: transparent;
+	border: 1px solid red;
+	margin-right: 30px;
+	margin-bottom: 10px;
+	float: right;
+}
+
+.foto7 {
+	width: 800px;
+	height: auto;
+	margin-left: 30px;
+	display: block;
+	background-color: transparent;
+	border: 1px solid red;
+	margin-right: 30px;
+	margin-bottom: 10px;
+	position: absolute;
+}
